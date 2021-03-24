@@ -1,0 +1,14 @@
+footer {
+  background-color: black;
+  color: white;
+  margin-top: 5%;
+  margin-bottom: 0px;
+  width: 100%;
+  padding:1%;
+  padding-bottom:2%;
+}
+
+div {
+    height:fit-content();
+    margin-top:0.5%;
+}
